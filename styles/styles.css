@@ -1,0 +1,19 @@
+
+body {
+	border-top: solid;
+	border-bottom-style: solid;
+	background: grey;
+	text-align: center;
+}
+
+h1, h3 {
+	text-transform: uppercase;
+}
+
+p {
+	color: red
+}
+
+img {
+	border: solid black
+}
